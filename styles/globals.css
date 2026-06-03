@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: #f4f6f8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root,
+#__next {
+  min-height: 100vh;
+}
+
+button {
+  text-transform: none;
+}
